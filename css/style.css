@@ -1,0 +1,38 @@
+.topic {
+    min-height: 300px;
+    margin: 0 0 10px 10px;
+    float: left;
+    display: block;
+    width: 49%;
+    background: #f1d9ff;
+}
+
+.topic .topic_wrap {
+    padding: 19px 20px 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.topic .text_small {
+    font-size: 13px;
+    color: inherit;
+    font-weight: inherit;
+}
+
+.topic .text_big {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.23;
+}
+
+.topic .top .date {
+    float: left;
+}´
+
+.topic .top .author {
+    float: right;
+}
+
+.clearer {
+    clear: both;
+}

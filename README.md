@@ -1,0 +1,1 @@
+Citizen OS API plugin for Wordpress, initially created for  [LeCiel Foundation](https://lecielfoundation.com/)
